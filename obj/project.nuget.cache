@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+cfWOPQVuM89+vzKnV497SdOQPLVjYrsiA/VSHtvT1aVtHKah8y3PJASfPomkShoiKLiutBC2es6Oy6L6cX0rw==",
+  "success": true,
+  "projectFilePath": "/home/imanovski/Projects/personal/labs/fsharp-projects/firsttrial/firsttrial.fsproj",
+  "expectedPackageFiles": [
+    "/home/imanovski/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
